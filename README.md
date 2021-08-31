@@ -5,7 +5,7 @@
 # rk-password-generator
 > A random password generator package for Node written entirely in JavaScript, with zero native dependencies. 
 
-## Instructions to run the project locally
+## Instructions use the package in your project
 
   
 ### Prerequisites
