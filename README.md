@@ -1,4 +1,5 @@
-<br><h1 align="center">![download](https://user-images.githubusercontent.com/59107121/131460080-651a2c3f-cc16-4b2b-85a7-534a60b18a03.png)</h1></br>
+<br><h1 align="center">![protect and manage passwords](https://user-images.githubusercontent.com/59107121/131472272-a4fb61ca-8a54-460e-bfd8-776e63710c8d.png)
+</h1></br>
 
 
 # rk-password-generator
