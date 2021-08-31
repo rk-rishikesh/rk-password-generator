@@ -5,6 +5,7 @@
 # rk-password-generator
 > A random password generator package for Node written entirely in JavaScript, with zero native dependencies. 
 
+[![npm (scoped)](https://img.shields.io/npm/v/rvk.rishikesh/rk-password-generator)](https://www.npmjs.com/package/rk-password-generator)
 ## Instructions to run the project locally
 
   
