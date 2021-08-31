@@ -1,0 +1,17 @@
+{
+  "name": "rk-password-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [        
+    "password",
+    "generator",
+    "package",
+    "random"],
+  "author": "Rishikesh Kale",
+  "license": "ISC",
+  "repository": "rk-rishikesh/rk-password-generator"
+}
