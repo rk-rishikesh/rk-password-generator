@@ -21,13 +21,14 @@ Install the following prerequisite
 
 ### Usage
 > To generate a random password with following requirements:
-Minimum 1 Uppercase letters: A-Z.
 
-Minimum 1 Lowercase letters: a-z.
+- Minimum 1 Uppercase letters: A-Z.
 
-Minimum 1 Numbers: 0-9.
+- Minimum 1 Lowercase letters: a-z.
 
-Minimum 1 Special character: ~`! @#$%^&*()_-+={[}]|\:;"'<,>.?/
+- Minimum 1 Numbers: 0-9.
+
+- Minimum 1 Special character: ~`! @#$%^&*()_-+={[}]|\:;"'<,>.?/
 ```bash
   const rkPasswordGenerator = require('rk-password-generator')
   
